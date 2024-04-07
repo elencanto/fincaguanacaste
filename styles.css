@@ -127,12 +127,12 @@ p {
   right: 30px; 
   padding-right: 12px;
   padding-left: 10px;
-  padding-bottom: 5px;
+  padding-bottom: 7px;
   background-color: rgba(0, 0, 0, 0.8); 
   color: #fff;
   font-weight: bolder;
   border: none;
-  border-radius: 10px; 
+  border-radius: 12px; 
   cursor: pointer;
   z-index: 1010; 
   font-size: 50px;
