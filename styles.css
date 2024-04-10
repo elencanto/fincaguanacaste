@@ -107,35 +107,26 @@ p {
 }
 
 .modal-content {
-  padding-top: 25px;
-  padding-left: 25px;
-}
-
-.modal-content img {
-  border-radius: 12px;
-  max-width: 100%;
-  height: auto;
-  display: block;
-  margin: 0 auto;
-  object-fit: contain; /* Asegura que la imagen mantenga sus proporciones originales */
+  padding-top: 15px;
+  padding-left: 15px;
 }
 
 /* botón "Atrás" en el modal */
 .close-modal-btn {
   position: absolute; 
-  top: 50px; 
+  top: 35%;
   right: 30px; 
   padding-right: 12px;
   padding-left: 10px;
-  padding-bottom: 7px;
+  padding-bottom: 12px;
   background-color: rgba(0, 0, 0, 0.8); 
   color: #fff;
   font-weight: bolder;
-  border: none;
+  border: #fff solid 2px;
   border-radius: 12px; 
   cursor: pointer;
   z-index: 1010; 
-  font-size: 50px;
+  font-size: 60px;
   text-align: center;
 }
   
